@@ -15,7 +15,7 @@ E-StoreMERN is a full-featured e-commerce web app built with the MERN stack (Mon
 ## 1. Clone the repository:
    ```sh
    git clone https://github.com/Asitmondal/E-StoreMERN.git
-   cd E-StoreMERN/backend sh```
+   cd E-StoreMERN/backend ```
 
 ## 2. Install dependencies:
    ### npm install
