@@ -17,18 +17,18 @@ E-StoreMERN is a full-featured e-commerce web app built with the MERN stack (Mon
    git clone https://github.com/Asitmondal/E-StoreMERN.git
    cd E-StoreMERN/backend ```
 
-## 2. Install dependencies:
-   ### npm install
+ 2. Install dependencies:
+   npm install
 
-## 3. Start the backend server:
-    ### npm run dev
-# Frontend Setup
+3. Start the backend server:
+    npm run dev
+ Frontend Setup
 
-### cd ../frontend
-### npm install
-### npm start
+ cd ../frontend
+npm install
+npm start
 
 
-# Technologies
-### Frontend: React.js, Redux, Bootstrap
-### Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
+ Technologies
+ Frontend: React.js, Redux, Bootstrap
+ Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
